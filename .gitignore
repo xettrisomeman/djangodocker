@@ -1,2 +1,4 @@
 /newvenv
 __pycache__/
+migrations/
+
